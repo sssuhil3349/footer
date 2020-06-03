@@ -1,0 +1,33 @@
+.fat{
+	color: white;
+	font-size: 25px;
+	margin: 10px;
+	background: black;
+	/*padding: 10px;*/
+	border-radius: 50%;
+	width: 45px;
+	height: 45px;
+	text-align: center;
+	transition: 0.5s;
+
+}
+.fat:hover{
+    color: black;
+	font-size: 25px;
+	margin: 10px;
+	background: white;
+	/*padding: 10px;*/
+	border-radius: 50%;
+	width: 45px;
+	height: 45px;
+	text-align: center;
+}
+ul li{
+	list-style-type: none;
+}
+.fa-angle-right{
+	font-weight: 700;
+	font-size: 25px;
+	margin: 0px 5px;
+	color: red;
+}
